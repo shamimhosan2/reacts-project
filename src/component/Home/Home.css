@@ -1,0 +1,30 @@
+.Dreamar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   margin-left: 95px; 
+    
+    
+}
+.review{
+    background-color: #F9F9FF;
+}
+.dremaer-name{
+    font-size: 50px;
+    color:  #1A1919;;
+    font-weight: 650;
+}
+.dreamar-img img{
+    width: 500px;
+
+}
+.job{
+    color: #9873FF
+    
+}
+.dreamar-explore{
+    color: #757575;
+}
+.jobfature{
+    display: grid;
+}

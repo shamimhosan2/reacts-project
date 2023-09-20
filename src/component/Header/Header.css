@@ -1,0 +1,28 @@
+.col a{
+    margin-left: 50px;
+    font-size: 16px;
+   
+}
+.col{
+    /* display: flex;
+    align-items: center; */
+}
+.row{
+    /* margin-top: 10px; */
+    padding: 20px;
+    display: flex;
+    align-items: center;
+}
+.Applind{
+    color: gray;
+}
+.header{
+    background-color: #F9F9FF;
+}
+  
+  
+  
+  
+  
+  
+  
